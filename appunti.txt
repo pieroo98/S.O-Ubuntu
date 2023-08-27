@@ -1,0 +1,31 @@
+xdg-open nome_file
+	mi permette di aprire un file non conoscendo il formato
+
+per chiamare una kill da bash :
+	comando : kill -s signal pidprocesso
+
+poweroff :
+	comando da terminale per spegnere la macchina virtuale
+
+pdftk prova1.txt prova2.txt prova3.txt cat output fileFinale.txt :
+	comando che mi permette di unire più pdf
+
+tree ./direttorio/ :
+	comando che mi stampa il direttorio in profondità con struttura ad albero
+
+find /home -iname nomefilecercato :
+	utilizza questo comando per cercare il file a partire dalla home e non facendo caso a maiuscole o minuscole.
+
+gcc -Wall -g -o ese lab6exe2.c :
+	esegue il programma .c
+
+./ese [param] :
+	esegue il file oggetto creato
+
+clear :
+	pulisce il prompt
+
+gedit exe8.sh
+chmod +x exe8.sh 
+./exe8.sh [param]
+	serie di comandi per eseguire uno script bash

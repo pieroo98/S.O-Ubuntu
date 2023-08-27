@@ -1,0 +1,4 @@
+pi :
+	gcc lab3exe1.c -o exet
+	./exet my_exercise_1/
+
